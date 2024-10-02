@@ -1,5 +1,5 @@
 ---
-title: User Inferface Design Curriculum
+title: User Interface Design Curriculum
 description: //
 next: /tutorials/user-interface-design/choose-an-art-style
 hideInPageNavigation: true
